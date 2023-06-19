@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NeoDrop/static/css/main.7a3beb27.css",
+    "main.js": "/NeoDrop/static/js/main.f08ff22f.js",
+    "static/js/787.eac42d72.chunk.js": "/NeoDrop/static/js/787.eac42d72.chunk.js",
+    "index.html": "/NeoDrop/index.html",
+    "main.7a3beb27.css.map": "/NeoDrop/static/css/main.7a3beb27.css.map",
+    "main.f08ff22f.js.map": "/NeoDrop/static/js/main.f08ff22f.js.map",
+    "787.eac42d72.chunk.js.map": "/NeoDrop/static/js/787.eac42d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3beb27.css",
+    "static/js/main.f08ff22f.js"
+  ]
+}
