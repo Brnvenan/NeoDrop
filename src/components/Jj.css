@@ -1,0 +1,37 @@
+.nn{
+    margin-top: -190px;
+    margin-left: 220px;
+}
+
+.mm{
+    margin-top: -190px;
+    margin-left: 440px;
+}
+
+.pp{
+    margin-top: -190px;
+    margin-left: 660px;
+}
+
+.ll{
+    text-align: center;
+    margin-left: -30px;
+    position: static;
+}
+
+.kk{
+    text-align: center;
+    margin-left: -440px;
+    position: static;
+}
+
+.bb{
+    text-align: center;
+    margin-left: -220px;
+    position: static;
+}
+
+.ss{
+    text-align: center;
+    position: static;
+}
